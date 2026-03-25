@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/My Flying SHMUP/DerivedDataCache
+/My Flying SHMUP/Intermediate
+/My Flying SHMUP/Saved
